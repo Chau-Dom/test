@@ -1,0 +1,6 @@
+P1,Nguyen van a,21/12/1990,Nam,0914002343,BKDN,Kha,7.0,Microsoft
+P2,Nguyen Van A2,21/12/1990,Nu,0913123456,BKDN,Kha,8.0,Microsoft
+P3,Nguyen Van A3,21/12/1990,Nam,0916789456,BKDN,Kha,7.0,Microsoft
+P4,Nguyen Van A4,21/12/1990,Nu,0915456321,BKDN,Kha,9.0,Microsoft
+P5,Nguyen Van A5,21/12/1990,Nam,0917464313,BKDN,Kha,6.0,Microsoft
+P6,Nguyen Van A6,21/12/1990,Nam,0917464313,BKDN,Kha,7.0,Microsoft
