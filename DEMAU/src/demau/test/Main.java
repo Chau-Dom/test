@@ -32,7 +32,7 @@ public class Main {
 		System.out.println("0.Kết thúc chương trình!");
 		System.out.println("--------------------------------------");
 	}
-
+// test edit
 	public static void main(String[] args) throws ParseException, InvalidPhoneNumberException, InvalidFullNameException, InvalidDOBException {
 		
 		try {
