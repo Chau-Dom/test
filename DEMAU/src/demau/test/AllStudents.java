@@ -132,5 +132,6 @@ public class AllStudents {
 				+ this.getSex() + ",Phone " + this.getPhoneNumber() + ",Univer: " + this.getUniversityName()
 				+ ",Grade: " + this.getGradeLevel() + ",GPA: " + this.getGpa() + ",Reward: " + this.getBestRewardName()
 				+ ",EngScore: " + this.getEnglishScore() + ",EntryScore: " + this.getEntryTestScore() + "]";
+		// alo alo
 	}
 }
